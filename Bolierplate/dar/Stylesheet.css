@@ -1,0 +1,1597 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: DAR_x_Army;
+}
+#DAR_x_Army * {
+	margin: 0;
+	padding: 0;
+}
+.DAR_x_Army_Class {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 4925px;
+	background-color: rgba(233,235,235,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	opacity: 1;
+	--web-view-name: DAR x Army;
+	--web-view-id: DAR_x_Army;
+	--web-scale-to-fit: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-enable-deep-linking: true;
+}
+.Web_Showcase_Project_Presentat_Class {
+	opacity: 1;
+	fill: url(#Web_Showcase_Project_Presentat_A0_Rectangle_2_pattern);
+}
+.Web_Showcase_Project_Presentat {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 718px;
+	left: 0px;
+	top: 119px;
+}
+.Ellipse_1_Class {
+	opacity: 1;
+	fill: rgba(233,235,235,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	height: 110px;
+	left: 905px;
+	top: 777px;
+}
+.Ellipse_2_Class {
+	opacity: 1;
+	fill: rgba(233,235,235,1);
+	stroke: rgb(0, 0, 0);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 61px;
+	left: 929px;
+	top: 802px;
+}
+.FORDI_NOGET_ER_V_RD_AT_K_MPE_F_Class {
+	opacity: 1;
+	position: absolute;
+	left: 374px;
+	top: 948px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 1284px;
+	height: 229px;
+	text-align: center;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.down_arrow_Class {
+	opacity: 1;
+	fill: url(#down_arrow_A0_Rectangle_4_pattern);
+}
+.down_arrow {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 39px;
+	left: 941px;
+	top: 815px;
+}
+.Rectangle_27_Class {
+	opacity: 1;
+	fill: url(#Rectangle_27_A0_Rectangle_6_pattern);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 644px;
+	left: 0px;
+	top: 1193px;
+}
+.Rectangle_28_Class {
+	opacity: 1;
+	fill: url(#Rectangle_28_A0_Rectangle_8_pattern);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 644px;
+	left: 640px;
+	top: 1193px;
+}
+.Rectangle_29_Class {
+	opacity: 1;
+	fill: url(#Rectangle_29_A0_Rectangle_10_pattern);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 644px;
+	left: 1280px;
+	top: 1193px;
+}
+.T_NKER_DU_P__AT_BLIVE_EN_DEL_A_Class {
+	opacity: 1;
+	position: absolute;
+	left: 195px;
+	top: 1884px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 1532px;
+	height: 65px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_30_Class {
+	opacity: 1;
+	fill: url(#Rectangle_30_A0_Rectangle_12_pattern);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 987px;
+	left: 50px;
+	top: 1996px;
+}
+.Rectangle_31_Class {
+	opacity: 1;
+	fill: rgba(62,93,88,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 494px;
+	left: 960px;
+	top: 1997px;
+}
+.Rectangle_32_Class {
+	opacity: 1;
+	fill: url(#Rectangle_32_A0_Rectangle_15_pattern);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 493px;
+	left: 1265px;
+	top: 1997px;
+}
+.Rectangle_33_Class {
+	opacity: 1;
+	fill: rgba(62,93,88,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	height: 494px;
+	left: 1570px;
+	top: 1997px;
+}
+.Rectangle_34_Class {
+	opacity: 1;
+	fill: url(#Rectangle_34_A0_Rectangle_18_pattern);
+}
+.Rectangle_34 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 494px;
+	left: 960px;
+	top: 2490px;
+}
+.Rectangle_35_Class {
+	opacity: 1;
+	fill: rgba(62,93,88,1);
+}
+.Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 494px;
+	left: 1264px;
+	top: 2489px;
+}
+.Rectangle_36_Class {
+	opacity: 1;
+	fill: url(#Rectangle_36_A0_Rectangle_21_pattern);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 494px;
+	left: 1569px;
+	top: 2489px;
+}
+.Rectangle_37_Class {
+	opacity: 1;
+	fill: url(#Rectangle_37_A0_Rectangle_23_pattern);
+}
+.Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 1825px;
+	height: 269px;
+	left: 48px;
+	top: 3031px;
+}
+.SENESTE_NYHEDER_OG_BEGIVENHEDE_Class {
+	opacity: 1;
+	position: absolute;
+	left: 50px;
+	top: 3347px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 1134px;
+	height: 72px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_38_Class {
+	opacity: 1;
+	fill: url(#Rectangle_38_A0_Rectangle_25_pattern);
+}
+.Rectangle_38 {
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 500px;
+	left: 50px;
+	top: 3466px;
+}
+.Rectangle_39_Class {
+	opacity: 1;
+	fill: url(#Rectangle_39_A0_Rectangle_27_pattern);
+}
+.Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 500px;
+	left: 1270px;
+	top: 3467px;
+}
+.Rectangle_40_Class {
+	opacity: 1;
+	fill: url(#Rectangle_40_A0_Rectangle_29_pattern);
+}
+.Rectangle_40 {
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 500px;
+	left: 660px;
+	top: 3466px;
+}
+.Rectangle_41_Class {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 1830px;
+	height: 398px;
+	left: 50px;
+	top: 3966px;
+}
+.Line_15_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(63, 91, 88);
+	stroke-width: 15px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_15 {
+	overflow: visible;
+	position: absolute;
+	top: 4410.5px;
+	left: 176.5px;
+	width: 1567.01px;
+	height: 16px;
+}
+.Kontakt_Class {
+	opacity: 1;
+	position: absolute;
+	left: 189px;
+	top: 4613px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(51,57,57,1);
+}
+.Oksb_l_Kaserne_Gr_rup_Havvej_2_Class {
+	opacity: 1;
+	position: absolute;
+	left: 189px;
+	top: 4665px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Telefon___45_72_83_95_00_Class {
+	opacity: 1;
+	position: absolute;
+	left: 189px;
+	top: 4766px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.F_lg_Dansk_Artilleriregiment_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1394px;
+	top: 4600px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 350px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(51,57,57,1);
+}
+.twitter_Class {
+	opacity: 1;
+	position: absolute;
+	width: 26.722px;
+	height: 21.717px;
+	left: 1393px;
+	top: 4655px;
+	overflow: visible;
+}
+.Group_36_Class {
+	opacity: 1;
+	position: absolute;
+	width: 26.722px;
+	height: 21.717px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_164_Class {
+	opacity: 1;
+	fill: rgba(85,172,238,1);
+}
+.Path_164 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 26.723px;
+	height: 21.717px;
+}
+.facebook_logo_Class {
+	opacity: 1;
+	position: absolute;
+	width: 13.795px;
+	height: 25.515px;
+	left: 1399px;
+	top: 4701.2px;
+	overflow: visible;
+}
+.Path_167_Class {
+	opacity: 1;
+	fill: rgba(58,88,158,1);
+}
+.Path_167 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 13.795px;
+	height: 25.516px;
+}
+.Image_19_Class {
+	opacity: 1;
+	fill: url(#Image_19_A0_Rectangle_32_pattern);
+}
+.Image_19 {
+	position: absolute;
+	overflow: visible;
+	width: 43.472px;
+	height: 27.17px;
+	left: 1385px;
+	top: 4751px;
+}
+.Twitter_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1439px;
+	top: 4652px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Facebook_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1439px;
+	top: 4702px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Youtube_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1439px;
+	top: 4753px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Dansk_Artilleriregiment_Class {
+	opacity: 1;
+	position: absolute;
+	left: 259px;
+	top: 4512px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 330px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(51,57,57,1);
+}
+.Rectangle_11_Class {
+	opacity: 1;
+	fill: rgba(243,243,243,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 60px;
+	left: 0px;
+	top: 4865px;
+}
+.Dansk_Artilleriregiment___Gr_r_Class {
+	opacity: 1;
+	position: absolute;
+	left: 284px;
+	top: 4880px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 1271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(51,57,57,1);
+}
+.Rectangle_42_Class {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_42 {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 152px;
+	left: 70px;
+	top: 1611px;
+}
+.Rectangle_43_Class {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 152px;
+	left: 707px;
+	top: 1611px;
+}
+.Rectangle_44_Class {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_44 {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 152px;
+	left: 1347px;
+	top: 1611px;
+}
+.NATO_Class {
+	opacity: 1;
+	position: absolute;
+	left: 72px;
+	top: 1629px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.NATO_er_hj_rnesten_i_dansk_sik_Class {
+	opacity: 1;
+	position: absolute;
+	left: 72px;
+	top: 1675.566px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 466px;
+	height: 54px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(51,57,57,1);
+}
+.Image_21_Class {
+	opacity: 1;
+	fill: url(#Image_21_A0_Rectangle_38_pattern);
+}
+.Image_21 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 43px;
+	left: 535px;
+	top: 1622px;
+}
+.Milj__og_energi_Class {
+	opacity: 1;
+	position: absolute;
+	left: 701px;
+	top: 1615px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 252px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.Vi_har_fokus_p__at_reducere_fo_Class {
+	opacity: 1;
+	position: absolute;
+	left: 699px;
+	top: 1665px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 515px;
+	height: 79px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(51,57,57,1);
+}
+.Image_22_Class {
+	opacity: 1;
+	fill: url(#Image_22_A0_Rectangle_40_pattern);
+}
+.Image_22 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 43px;
+	left: 1172px;
+	top: 1615px;
+}
+.Cybersikkerhed_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1349px;
+	top: 1615px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.Forekomsten_af_it_relaterede_t_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1347px;
+	top: 1665px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 507px;
+	height: 79px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(51,57,57,1);
+}
+.Image_23_Class {
+	opacity: 1;
+	fill: url(#Image_23_A0_Rectangle_42_pattern);
+}
+.Image_23 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 43px;
+	left: 1812px;
+	top: 1608px;
+}
+.F_16_p__vingerne_i_Finland_Class {
+	opacity: 1;
+	position: absolute;
+	left: 123px;
+	top: 4013px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 442px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.Danske_kampfly_deltager_for_f__Class {
+	opacity: 1;
+	position: absolute;
+	left: 123px;
+	top: 4059.566px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 466px;
+	height: 232.466px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.NYHEDER_Class {
+	opacity: 1;
+	position: absolute;
+	left: 133px;
+	top: 4318px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Mission_Update_nr__21___2019__Class {
+	opacity: 1;
+	position: absolute;
+	left: 708px;
+	top: 4013px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 505px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.Trusselsniveauet_mod_de_danske_Class {
+	opacity: 1;
+	position: absolute;
+	left: 708px;
+	top: 4059.566px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 466px;
+	height: 232.466px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.NYHEDER_A0_Text_24_Class {
+	opacity: 1;
+	position: absolute;
+	left: 718px;
+	top: 4318px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.Bedre_fart_j__bedre_s_kort_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1317px;
+	top: 4001px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 440px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(51,57,57,1);
+}
+.To_nye__hurtigg_ende_fart_jer__Class {
+	opacity: 1;
+	position: absolute;
+	left: 1317px;
+	top: 4047.566px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 466px;
+	height: 232.466px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.NYHEDER_A0_Text_27_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1327px;
+	top: 4306px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,57,57,1);
+}
+.DAR__kanon_m_krone_streg_0_75_Class {
+	opacity: 1;
+	fill: url(#DAR__kanon_m_krone_streg_0_75_A0_Rectangle_44_pattern);
+}
+.DAR__kanon_m_krone_streg_0_75 {
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	height: 89px;
+	left: 177px;
+	top: 4481px;
+}
+.Rectangle_45_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(112, 112, 112);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 366px;
+	height: 42px;
+	left: 1509px;
+	top: 3362px;
+}
+.L_S_ALLE_NYHEDER_OG_BEGIVENHED_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1523px;
+	top: 3374px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(51,57,57,1);
+}
+.Rectangle_46_Class {
+	opacity: 0.28;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 1825px;
+	height: 269px;
+	left: 48px;
+	top: 3031px;
+}
+.VI__BNER_HELE_VEJEN_FOR_DIG_Class {
+	opacity: 1;
+	position: absolute;
+	left: 331px;
+	top: 3147px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 1259px;
+	height: 91px;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,255,255,1);
+}
+.UDDANNELSE__JOB_OG_KARRIEREVEJ_Class {
+	opacity: 1;
+	position: absolute;
+	left: 421px;
+	top: 3113px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 1080px;
+	height: 34px;
+	text-align: center;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_47_Class {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 987px;
+	left: 50px;
+	top: 1996px;
+}
+.ER_DU_KLAR_TIL_EN_OPLEVELSE_FO_Class {
+	opacity: 1;
+	position: absolute;
+	left: 171px;
+	top: 2163px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 670px;
+	height: 684px;
+	text-align: center;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_48_Class {
+	opacity: 1;
+	fill: rgba(172,133,41,1);
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 462px;
+	height: 53px;
+	left: 266px;
+	top: 2735px;
+}
+.SE_DINE_MULIGHEDER_Class {
+	opacity: 1;
+	position: absolute;
+	left: 305px;
+	top: 2744px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 378px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_49_Class {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 493px;
+	left: 960px;
+	top: 2490px;
+}
+.Rectangle_50_Class {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 493px;
+	left: 1569px;
+	top: 2489px;
+}
+.Rectangle_51_Class {
+	opacity: 0.5;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 492px;
+	left: 1264px;
+	top: 1997px;
+}
+.FRED_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1039px;
+	top: 2213px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.FRIHED_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1310px;
+	top: 2714px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.SIKKERHED_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1590px;
+	top: 2225px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 266px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.Group_38_Class {
+	opacity: 1;
+	position: absolute;
+	width: 1924px;
+	height: 120px;
+	left: -4px;
+	top: -1px;
+	overflow: visible;
+}
+.Rectangle_25_Class {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 119px;
+	left: 4px;
+	top: 1px;
+}
+.Group_37_Class {
+	opacity: 1;
+	position: absolute;
+	width: 1924px;
+	height: 118.72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_1_Class {
+	opacity: 1;
+	position: absolute;
+	width: 1920px;
+	height: 118.72px;
+	left: 4px;
+	top: 0px;
+	overflow: visible;
+}
+.DAR__kanon_m_krone_streg_0_75_A0_Rectangle_53_Class {
+	opacity: 1;
+	fill: transparent;
+}
+.DAR__kanon_m_krone_streg_0_75_A0_Rectangle_53 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 118.72px;
+	left: 0px;
+	top: 0px;
+}
+.Line_1_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 342.5px;
+	width: 2px;
+	height: 118px;
+}
+.Line_2_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 593.5px;
+	width: 2px;
+	height: 118px;
+}
+.Line_3_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 841.5px;
+	width: 2px;
+	height: 118px;
+}
+.Line_4_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 983.5px;
+	width: 2px;
+	height: 118px;
+}
+.Line_5_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1127.5px;
+	width: 2px;
+	height: 118.719px;
+}
+.Line_6_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1270.5px;
+	width: 2px;
+	height: 118.719px;
+}
+.Line_7_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1382.5px;
+	width: 2px;
+	height: 118.719px;
+}
+.Line_8_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1532.5px;
+	width: 2px;
+	height: 118.719px;
+}
+.ARBEJDESOMR_DER_Class {
+	opacity: 1;
+	position: absolute;
+	left: 365px;
+	top: 48.276px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.MINISTEROMR_DET_Class {
+	opacity: 1;
+	position: absolute;
+	left: 616px;
+	top: 48.276px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.NYHEDER_A0_Text_38_Class {
+	opacity: 1;
+	position: absolute;
+	left: 864px;
+	top: 49.276px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.VORES__V_RDIER_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1006px;
+	top: 36.749px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.VORES_OPGAVER_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1150px;
+	top: 38.749px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.KARRIERE_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1405px;
+	top: 49.683px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.SKOLELUNDEN_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1555px;
+	top: 48.683px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.OM_OS_Class {
+	opacity: 1;
+	position: absolute;
+	left: 1293px;
+	top: 49.276px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+.Line_9_Class {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(226, 226, 220);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1727.5px;
+	width: 2px;
+	height: 118.719px;
+}
+.Danish_flag_Class {
+	opacity: 1;
+	fill: url(#Danish_flag_A0_Rectangle_55_pattern);
+}
+.Danish_flag {
+	position: absolute;
+	overflow: visible;
+	width: 29.172px;
+	height: 29.172px;
+	left: 1888px;
+	top: 3.572px;
+}
+.Searchbar_glass_Class {
+	opacity: 1;
+	fill: url(#Searchbar_glass_A0_Rectangle_57_pattern);
+}
+.Searchbar_glass {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 44px;
+	left: 1798px;
+	top: 38.955px;
+}
+.Rectangle_24_Class {
+	opacity: 1;
+	fill: transparent;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	height: 117px;
+	left: 0px;
+	top: 1px;
+}
+.DAR__kanon_m_krone_streg_0_75_A0_Rectangle_59_Class {
+	opacity: 1;
+	fill: url(#DAR__kanon_m_krone_streg_0_75_A0_Rectangle_60_pattern);
+}
+.DAR__kanon_m_krone_streg_0_75_A0_Rectangle_59 {
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	height: 90px;
+	left: 0px;
+	top: 10px;
+}
+.DANSK_ARTELLERIREGIMENT_Class {
+	opacity: 1;
+	position: absolute;
+	left: 67px;
+	top: 50px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 264px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Verdana;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,57,57,1);
+}
+.Forsiden___Skolelunden_knap_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.Forsiden___Skolelunden_knap {
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	height: 120px;
+	left: 1535px;
+	top: -1px;
+}

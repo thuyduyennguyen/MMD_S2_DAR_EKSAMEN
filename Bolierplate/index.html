@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+
+  <title>Hjemmeside titel</title>
+  <meta name="description" content="Hjemmeside beskrivelse" />
+  <meta name="keywords" content="">
+  <meta name="author" content="Hjemmeside" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+<!-- Hurtig CSS. Brug ikke <style> til rigtige projekter -->
+<style>
+main {
+  display: inline-block;
+  width: 100%;  
+}
+.row div {
+  margin-bottom: 10px;
+}
+.row div a {
+  display: inline-block;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.1);
+}
+</style>
+
+<main>
+
+  <!-- Divs med x / 12 kolonner i bredde -->
+        <div class="topnav" id="myTopnav">
+          <img src="dar/logo.png" alt="darlogo" class="logo">
+          <a href="#forside" id="forside" class="active" style="border-left: 0.5px solid rgba(128, 128, 128, 0.363);
+          ">FORSIDE</a>
+          <a href="#arbejdsområder">ARBEJDSOMRÅDER</a>
+          <a href="#ministerområdet">MINISTEROMRÅDET</a>
+          <a href="#nyheder">NYHEDER</a>
+          <a href="#voresvaerdier" style="padding-top:2.6%; padding-bottom: 2.4%;">VORES<br> VÆRDIER</a>
+          <a href="#voresopgaver" style="padding-top:2.6%;padding-bottom: 2.4%;">VORES<br> OPGAVER</a>
+          <a href="#omos">OM OS</a>
+          <a href="#karriere">KARRIERE</a>
+          <a href="prototypeskolelunden.html">SKOLELUNDEN</a>
+          <a href="prototypeskolelunden.html" style="border-right: 0px solid grey;">IKON</a>
+
+        
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+        <script>
+          function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+              x.className += " responsive";
+            } else {
+              x.className = "topnav";
+            }
+          }
+          </script>        
+ 
+
+  
+  <!-- Samme som ovenfor, men i centrum af skærmen fordi de er indeni <div class="container"> -->
+<section class="FirstTwo">
+    <div class="row" style="background-color:#E9EBEB; padding: 0px;">
+      <div class="grid-xs-4" style="padding: 0px; width: 100%; height: 65vh;"> <img src="dar/showcase.png" style="width: 100%; height: auto;">  </div>
+      <div class="grid-xs-4" style="height: auto; text-align: center; width: 100%;"><h2 style="padding-top: 3%;">FORDI NOGET ER VÆRD AT KÆMPE FOR.</h2><p style="padding-top: 2%; line-height: 1.8em;">Danske Artilleriregiment skaber grundlaget for, <br>
+        <p>at danske soldater kan kæmpe og vinde.</p>
+      </div>
+  </div>
+</section>
+
+<section>
+  <div class="row" style="background-color:#E9EBEB; padding: 0px; margin-top: 5%;">
+    <div class="grid-xs-4" style="padding: 0px; width: 100%; height: auto;"> 
+      <div class="grid-xs-4 grid-lg-2" style="padding: 0px; width: 33.33%; height: auto;"><img src="dar/billed1.png" style="width: 100%; height: auto;"> </div>
+      <div class="grid-xs-4 grid-lg-2" style="padding: 0px; width: 33.33%;height: auto;"><img src="dar/billed2.png" style="width: 100%; height: auto;">  </div>
+      <div class="grid-xs-4 grid-lg-2" style="padding: 0px; width: 33.33%;height: auto;"><img src="dar/billed3.png" style="width: 100%; height: auto;">  </div>
+    </div></div>
+</section>
+
+
+  
+  <br><br> 
+  
+  <!-- Samme som ovenfor, men hver div bliver mindre på desktop-størrelse skærm (lg) -->
+  <div class="row">
+    <div class="container">
+      <div class="grid-xs-4 grid-lg-2"> <a>1</a> </div>
+      <div class="grid-xs-4 grid-lg-2"> <a>2</a> </div>
+      <div class="grid-xs-4 grid-lg-2"> <a>3</a> </div>
+	  <div class="grid-xs-4 grid-lg-2"> <a>4</a> </div>
+      <div class="grid-xs-4 grid-lg-2"> <a>5</a> </div>
+      <div class="grid-xs-4 grid-lg-2"> <a>6</a> </div>
+	</div>
+  </div>
+
+</main>
+
+</body>
+</html>
