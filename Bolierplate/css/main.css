@@ -47,6 +47,64 @@ body {
 
 }
 
+.container h3 {
+	font-family: 'Verdana Bold';
+	font-size: 1.6vw;
+	color: #333939;
+	margin-bottom:1%;
+}
+
+.container p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 1.1vw;
+	color: #333939;
+}
+
+.container h4 {
+	font-family: 'Verdana Bold';
+	font-size: 1vw;
+	color: #333939;
+	margin-top: 15%;
+	margin-left: 1%;
+}
+
+.nyhed {
+	padding: 10% 10% 10% 10%;
+}
+.rightbox {
+	color: #FFF;
+	float:right;
+	padding: 20px;
+	font-size: 1vw;
+	}
+	
+		.containerfooter {
+		background-color:#E5E5E5;
+		width: 95%;
+		height: auto;
+		margin-left: auto;
+		margin-right: auto;
+		font-size: 14px;
+		}
+	.forsvaret {
+	width: 100%;
+	display: inline-block;
+	height: auto;
+	padding-bottom: 40px;
+	background-color: #e5e5e5;
+	border-top: 1.5vh solid #3F5B58;
+	}
+	
+	.leftbox {
+	width: 30%;
+	height: auto;
+	padding-bottom: 5vh;
+	background-color:#E5E5E5;
+	float:left;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	}
+
+
 .button4  {
 		background-color: #AC8529; /* Green */
 		border: none;
@@ -111,7 +169,8 @@ body {
 	font-size: 30px;
 	padding: 2%;
   }
-  
+	
+	
   
   
   /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
@@ -158,6 +217,7 @@ body {
 	  margin-top: 14%;
 	}
 	}
+
 
 
 
