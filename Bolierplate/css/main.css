@@ -9,6 +9,7 @@
 
 body {
 	background: #E9EBEB; 
+	height: 100%;
 } 
 .logo {
     width: 14.5%;
@@ -30,6 +31,39 @@ body {
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 1.5vw;
 }
+
+.button3  {
+	background-color: #E9EBEB; /* Green */
+	border: 2px solid #000;
+	padding: 0.8%;
+	color: #000;
+	text-align: center;
+	text-decoration: none;
+	float:right;
+	display: inline-block;
+	font-size: 1vw;
+	cursor: pointer;
+	border-radius: 15px;
+
+}
+
+.button4  {
+		background-color: #AC8529; /* Green */
+		border: none;
+		color: white;
+		padding: 2%;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 1.5vw;
+		margin: 10%;
+		cursor: pointer;
+		border-radius: 15px;
+
+	}
+
+
+
 
 /* Add a black background color to the top navigation */
 .topnav {
